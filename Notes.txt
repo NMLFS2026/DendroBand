@@ -1,0 +1,28 @@
+OVERVIEW NOTES
+The files in this folder are copies of data, so they have updated data as of 6/3/26
+
+Kays dendro data is stored at S:\Ecology\dendrobands\dendA_update.xlsx
+- dates are represented as fractions of a year
+- there were two types of dendro bands, they didn't overlap so we don't know how different they could possibly be
+
+There is a tab somewhere that says 'additional trees' that is because a previous person set up the doc to be analyzed with Access, and it could only tolerate a specific range of trees. The additional trees likely need to be regrouped
+
+
+QUESTIONS:
+- the dendro bands might be at different heights?
+
+
+Current goal:
+pull out the dead dendro band trees
+
+
+6/4/26 -- 
+
+1. separated the raw file sheets into separate xlxs files
+-- will need to figure out how to write code that works with separate sheets in the excel document
+
+
+basal area path S:\Ecology\dendrobands\Analysis\BA_calculations_by_tree.xlsx
+
+	
+2003-01-15
